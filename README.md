@@ -1,7 +1,7 @@
 
 # Rock-Paper-Scissors Project
 
-This is a simple calculator project built using HTML, CSS, and JavaScript.
+This is a simple rock-paper-scissors project built using HTML, CSS, and JavaScript.
 ![image](https://github.com/Irina923-ar/Project-rock-paper-scissors/assets/112747712/d0f052c8-4e1b-480e-af55-701738626a06)
 
 ## Features
