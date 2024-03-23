@@ -191,12 +191,12 @@ function Game() {
       ) : (
         <div className="container-results">
           <div className="player">
-            {result === "You win!" && <HighlightWinner />}
             <div className="title-picked fw-bold fs-300">YOU PICKED</div>
             <div
               className="div-picked result-selection-you bg-radial-200"
               data-you
             >
+              {result === "You win!" && <HighlightWinner />}
               {playerSelection && (
                 <SelectionResult selection={playerSelection} player="you" />
               )}
@@ -214,12 +214,12 @@ function Game() {
             </div>
           )}
           <div className="computer">
-            {result === "You lose!" && <HighlightWinner />}
             <div className="title-picked fw-bold fs-300">THE HOUSE PICKED</div>
             <div
               className="div-picked result-selection-computer bg-radial-200"
               data-computer
             >
+              {result === "You lose!" && <HighlightWinner />}
               {computerSelection && (
                 <SelectionResult
                   selection={computerSelection}
