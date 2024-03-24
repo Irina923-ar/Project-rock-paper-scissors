@@ -11,10 +11,6 @@ This is a simple rock-paper-scissors project built using HTML, CSS, and JavaScri
 - Multiplication
 - Division
   
-## Usage
-
-To use this calculator, simply open the `index.html` file in a web browser.
-
 ## Deployment
 
 This project is deployed on Vercel and can be accessed at (https://project-rock-paper-scissors-dle7cd0uq-galan-irinas-projects.vercel.app/).
@@ -37,7 +33,3 @@ Once the dependencies are installed, you can run npm start to start the applicat
 
 To give yourself administrator permissions on the chat, you will have to type /role [your-name] in the app console.
 
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
