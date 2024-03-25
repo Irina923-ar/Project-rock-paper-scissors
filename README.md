@@ -32,7 +32,7 @@ Play the Rock Paper Scissors Game now: (https://project-rock-paper-scissors-eigh
 
 1. Clone the repository to your local machine:
     ```
-    git clone https://github.com/yourusername/rock-paper-scissors.git
+    git clone (https://github.com/Irina923-ar/Rock-Paper-Scissors-Game.git)
     ```
 2. Navigate to the project directory:
     ```
