@@ -4,7 +4,7 @@
 
 The Rock Paper Scissors Game is a web-based version of the classic hand game that allows users to play against the computer. Built using web technologies, this game brings the timeless challenge of Rock, Paper, Scissors to your browser, where the goal is to choose an option that beats the computer's choice according to traditional rules: Rock crushes Scissors, Scissors cuts Paper, and Paper covers Rock.
 
-![INSERT SCREENSHOT HERE]
+![image](https://github.com/Irina923-ar/Rock-Paper-Scissors-Game/assets/112747712/589be909-f1e9-4dbb-b51e-57704ef95f4a)
 
 ## Live Demo
 
@@ -16,7 +16,9 @@ Play the Rock Paper Scissors Game now: (https://project-rock-paper-scissors-eigh
 - **Score Tracking**: Keep track of your wins, losses, and ties in a session-based scoreboard.
 - **Responsive Design**: Enjoy the game on any device, thanks to a mobile-responsive layout.
 
-![INSERT SCREENSHOT HERE]
+![image](https://github.com/Irina923-ar/Rock-Paper-Scissors-Game/assets/112747712/37f4cd18-4ee9-4f12-a8a7-ed32b4b16852)
+![image](https://github.com/Irina923-ar/Rock-Paper-Scissors-Game/assets/112747712/8661d37a-05d4-4950-813c-c257e0b0345d)
+![image](https://github.com/Irina923-ar/Rock-Paper-Scissors-Game/assets/112747712/3da3d01a-d3d0-4d3e-a8c2-d33985d8f38c)
 
 ## Technologies Used
 
